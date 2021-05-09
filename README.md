@@ -1,2 +1,1 @@
-# miniServer
-miniServer
+# mini-node-server
